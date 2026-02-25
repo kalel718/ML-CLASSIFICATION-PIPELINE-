@@ -75,8 +75,8 @@ Most “ML projects” in portfolios:
 ### 📈 Grand Dashboard  
 Single visual comparing **all models × all metrics × both datasets** — the *executive‑summary* you put in your portfolio.  
 
-*(Screenshot below — replace with your actual image link)*  
-![Grand Dashboard](<img width="2223" height="1373" alt="image" src="https://github.com/user-attachments/assets/99b06b41-51b8-49e7-a625-bb1c23833c73" />
+
+(<img width="2223" height="1373" alt="image" src="https://github.com/user-attachments/assets/99b06b41-51b8-49e7-a625-bb1c23833c73" />
 )
 
 ---
